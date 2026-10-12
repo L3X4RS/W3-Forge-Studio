@@ -1,5 +1,7 @@
 # W3 Forge Studio
 
+**[Release v0.6.1 Beta — Notes in English and Português (Brasil)](docs/RELEASE_NOTES_v0.6.1b_EN_PTBR.md)**
+
 **Versão-base: v0.6.1 Beta (11/10/2026)**
 
 Ferramenta de modding para **The Witcher 3 (PC / Next-Gen)**, desenvolvida em C# com WPF e componentes de edição REDengine. Este repositório contém o **código-fonte**, não um instalador ou uma cópia do jogo.
