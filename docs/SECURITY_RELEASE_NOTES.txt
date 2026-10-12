@@ -1,0 +1,1 @@
+Security review notes: no self-unblocking, no automatic downloader, no nested archives, no installer or obfuscation. SHA256 checksums supplied separately. Unsigned application: antivirus and Nexus security checks still apply.

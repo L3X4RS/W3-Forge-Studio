@@ -1,0 +1,1 @@
+W3 Forge Studio v0.6.1 Beta C# source. Build with build.ps1 and externally sourced dependencies under their original licences. This SOURCE archive deliberately excludes binaries, games and unrelated projects.

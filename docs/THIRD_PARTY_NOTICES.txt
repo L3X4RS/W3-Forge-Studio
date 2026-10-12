@@ -1,0 +1,47 @@
+﻿THIRD-PARTY NOTICES
+W3 FORGE STUDIO 0.4.1 Beta
+
+W3Edit
+
+W3 Forge Studio uses W3Edit REDengine editor components for CR2W resource editing.
+
+Original W3Edit author:
+Sarcen
+
+Runtime\W3Edit.exe is loaded as an editor component and is required by the embedded CR2W editor.
+
+WolvenKit lineage
+
+The W3Edit code lineage was continued by the WolvenKit community.
+Relevant source and licensing material is provided with the separate W3 Forge Studio Source package.
+
+Reference repositories:
+https://github.com/Maxzor/Wolven-kit
+https://github.com/WolvenKit/WolvenKit-7
+
+DockPanel Suite
+Runtime\WeifenLuo.WinFormsUI.Docking.dll
+See Licenses\License.dockpanelsuit.txt
+
+ObjectListView
+Runtime\ObjectListView.dll
+See Licenses\License.objectlistview.txt
+
+LZ4
+Runtime\LZ4.dll
+See Licenses\License.lz4net.txt
+
+Doboz
+Runtime\Doboz.dll
+See Licenses\License.doboz4net.txt
+
+DotNetZip / Ionic.Zlib
+Runtime\Ionic.Zlib.dll
+See Licenses\License.dotnetzip.txt
+See Licenses\License.dotnetzip.zlib.txt
+
+W3 Forge Studio's native build system does not redistribute or invoke wcc_lite, the old ModKit, or REDkit.
+
+W3 Forge Studio is not affiliated with or endorsed by CD PROJEKT RED.
+
+

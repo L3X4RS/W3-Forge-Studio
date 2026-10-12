@@ -1,0 +1,6 @@
+v0.6.1 Beta (2026-10-11)
+Fixed project dialog location isolation, explorer expansion/selection on refresh,
+CSV horizontal drag with a dedicated slider, CSV editor width, Run Game command,
+New WitcherScript action, script-only mod Build and loose script installation,
+OBJ/MTL and C/C++ file text opening. Removed Windows Mark-of-the-Web deletion.
+No false-positive bypass. No game files or user mods modified by the release.
